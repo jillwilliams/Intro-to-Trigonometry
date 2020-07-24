@@ -1,0 +1,198 @@
+body {
+    font-size: 1.5rem;
+    color: lightgreen;
+    background-color: black;
+    margin: 15px 15px 60px 15px;
+    letter-spacing: 3px;
+    font-family: "Indie Flower", sans-serif;
+    text-align: center;
+}
+h1, #p1 {
+    font-family: "Indie Flower", sans-serif;
+    text-align: center;
+    color: white;
+}
+p {
+    font-family: "Shadows Into Light", sans-serif;
+    text-align: left;
+    letter-spacing: 4px;
+    color: lightgreen;
+}
+#pic1 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#pic2, #pic3, #pic4, #pic5 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#pic10 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+h2 {
+    color: white;
+    font-size: 1.5rem;
+}
+#pic13 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+/* Trig Formulas 2nd time */
+#pic14 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+/* Solution */
+#pic15, #pic16, #pic17, #pic18, #pic19, #pic21, #pic23, #pic25 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#pic20 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#pic22 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#pic24 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#video1 {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px 10px;
+    width: 1200px;
+    height: 900px;
+    border: 2px lightgreen solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#input1 {
+    width: 10%;
+    height: 40px;
+    font-size: 1.5rem;
+    font-family: "Indie Flower", sans-serif;
+    border: 2px green solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#button1 {
+    width: 15%;
+    height: 40px;
+    font-size: 1.3rem;
+    font-family: "Indie Flower", sans-serif;
+    border: 2px green solid;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#demo {
+    width: 5%;
+    height: 40px;
+    font-size: 1.5rem;
+    color: white;
+    font-family: "Indie Flower", sans-serif;
+    border: 2px green solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#myBtn, #myBtn1, #myBtn2 {
+    height: 60px;
+    width: auto;
+    border-color: tomato;
+    background-color: lightgreen;
+    color: black;
+    font-family: "Shadows Into Light", sans-serif;
+    font-size: 2rem;
+
+}
+#demo, #demo1, #demo2 {
+    width: 100%;
+    height: 60px:
+    color: lightgreen;
+
+}
+#myBtn3, #myBtn4, #myBtn5 {
+    height: 30px;
+    width: auto;
+    border-color: tomato;
+    background-color: lightgreen;
+    color: black;
+    font-family: "Indie Flower", sans-serif;
+    font-size: 1rem;
+    margin: 5px;
+}
+footer {
+        text-align: center;
+}
